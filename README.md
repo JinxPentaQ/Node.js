@@ -105,9 +105,7 @@ URN：Uniform Resource Name，统一资源名称。
 
  ### ☁ 请求头
 
-
-
-![](./HTtp请求头.jpg)
+![](./Http请求头.jpg)
 
 
 
